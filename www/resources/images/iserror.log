@@ -1,0 +1,218 @@
+		Initializing .... 
+
+Total memory allocated = 5448052
+		Begin Printing Seed information
+
+Seed point: 3 3 	Path 0 0 	User path -1 -1 -1
+
+---------------------
+
+Print path: 
+
+
+
+[3 3] 
+
+		Begin Printing Seed information
+
+Seed point: 3 3 	Path 0 1 	User path 0 74 0
+
+Seed point: 3 4 	Path 2 2 	User path 74 74 74
+
+---------------------
+
+Print path: 
+
+
+
+[3 3] [3 4] [3 4] 
+
+		Begin Printing Seed information
+
+Seed point: 3 3 	Path 0 1 	User path 0 74 0
+
+Seed point: 3 4 	Path 2 3 	User path 74 88 74
+
+Seed point: 4 4 	Path 4 4 	User path 88 88 88
+
+---------------------
+
+Print path: 
+
+
+
+[3 3] [3 4] [3 4] [4 4] [4 4] 
+
+		Begin Printing Seed information
+
+Seed point: 3 3 	Path 0 1 	User path 0 74 0
+
+Seed point: 3 4 	Path 2 3 	User path 74 88 74
+
+Seed point: 4 4 	Path 4 5 	User path 88 104 88
+
+Seed point: 4 5 	Path 6 6 	User path 104 104 104
+
+---------------------
+
+Print path: 
+
+
+
+[3 3] [3 4] [3 4] [4 4] [4 4] [4 5] [4 5] 
+
+		Begin Printing Seed information
+
+Seed point: 3 3 	Path 0 1 	User path 0 74 0
+
+Seed point: 3 4 	Path 2 3 	User path 74 88 74
+
+Seed point: 4 4 	Path 4 5 	User path 88 104 88
+
+Seed point: 4 5 	Path 6 7 	User path 104 119 104
+
+Seed point: 3 5 	Path 8 8 	User path 119 119 119
+
+---------------------
+
+Print path: 
+
+
+
+[3 3] [3 4] [3 4] [4 4] [4 4] [4 5] [4 5] 
+[3 5] [3 5] 
+
+		Begin Printing Seed information
+
+Seed point: 3 3 	Path 0 1 	User path 0 74 0
+
+Seed point: 3 4 	Path 2 3 	User path 74 88 74
+
+Seed point: 4 4 	Path 4 5 	User path 88 104 88
+
+Seed point: 4 5 	Path 6 7 	User path 104 119 104
+
+Seed point: 3 5 	Path 8 9 	User path 119 125 119
+
+Seed point: 3 4 	Path 10 10 	User path 125 125 125
+
+---------------------
+
+Print path: 
+
+
+
+[3 3] [3 4] [3 4] [4 4] [4 4] [4 5] [4 5] 
+[3 5] [3 5] [3 4] [3 4] 
+
+		Begin Printing Seed information
+
+Seed point: 3 3 	Path 0 1 	User path 0 74 0
+
+Seed point: 3 4 	Path 2 3 	User path 74 88 74
+
+Seed point: 4 4 	Path 4 5 	User path 88 104 88
+
+Seed point: 4 5 	Path 6 7 	User path 104 119 104
+
+Seed point: 3 5 	Path 8 9 	User path 119 125 119
+
+Seed point: 3 4 	Path 10 10 	User path 125 174 125
+
+Seed point: 3 4 	Path 11 11 	User path 174 174 174
+
+---------------------
+
+Print path: 
+
+
+
+[3 3] [3 4] [3 4] [4 4] [4 4] [4 5] [4 5] 
+[3 5] [3 5] [3 4] [3 4] [3 4] 
+
+		Begin Printing Seed information
+
+Seed point: 3 3 	Path 0 1 	User path 0 74 0
+
+Seed point: 3 4 	Path 2 3 	User path 74 88 74
+
+Seed point: 4 4 	Path 4 5 	User path 88 104 88
+
+Seed point: 4 5 	Path 6 7 	User path 104 119 104
+
+Seed point: 3 5 	Path 8 9 	User path 119 125 119
+
+Seed point: 3 4 	Path 10 10 	User path 125 174 125
+
+Seed point: 3 4 	Path 11 11 	User path 174 176 174
+
+Seed point: 3 4 	Path 12 12 	User path 176 176 176
+
+---------------------
+
+Print path: 
+
+
+
+[3 3] [3 4] [3 4] [4 4] [4 4] [4 5] [4 5] 
+[3 5] [3 5] [3 4] [3 4] [3 4] [3 4] 
+
+User path
+
+
+[3 3] [3 3] [3 4] [3 4] [3 4] [3 5] [3 5] 
+[3 5] [3 5] [3 5] [3 5] [3 5] [3 5] [3 5] 
+[3 5] [3 5] [3 5] [3 5] [3 5] [3 5] [3 5] 
+[3 5] [3 5] [3 5] [3 5] [3 5] [3 5] [3 5] 
+[3 5] [3 5] [3 5] [3 5] [3 5] [3 5] [3 5] 
+[3 5] [3 5] [3 5] [3 5] [3 5] [3 5] [3 5] 
+[3 5] [3 5] [3 5] [3 5] [3 4] [3 4] [3 4] 
+[3 4] [3 4] [3 4] [3 4] [3 4] [3 4] [3 4] 
+[3 4] [3 4] [3 4] [3 4] [3 4] [3 4] [3 4] 
+[3 4] [3 4] [3 4] [3 4] [3 4] [3 4] [3 4] 
+[3 4] [3 4] [3 4] [3 4] [3 4] [3 4] [3 4] 
+[3 4] [3 4] [3 4] [3 4] [3 4] [4 4] [4 4] 
+[4 4] [4 4] [4 4] [4 4] [4 4] [4 4] [3 4] 
+[3 4] [3 5] [3 5] [3 5] [3 5] [3 5] [3 5] 
+[3 5] [4 5] [4 5] [4 5] [4 5] [4 5] [4 5] 
+[4 5] [4 5] [4 5] [4 5] [4 5] [3 5] [3 5] 
+[3 5] [3 5] [3 5] [3 5] [3 5] [3 5] [3 5] 
+[3 5] [3 5] [3 5] [3 5] [3 5] [3 4] [3 4] 
+[3 4] [3 4] [3 4] [3 4] [3 4] [3 4] [3 4] 
+[3 4] [3 4] [3 4] [3 4] [3 4] [3 4] [3 4] 
+[3 4] [3 3] [3 3] [3 3] [3 3] [3 3] [3 3] 
+[3 3] [3 3] [3 3] [3 3] [3 3] [3 3] [3 3] 
+[3 3] [3 3] [3 3] [3 3] [3 3] [3 3] [3 3] 
+[3 3] [3 3] [3 3] [3 3] [3 3] [3 3] [3 3] 
+[3 3] [3 3] [3 3] [3 3] [3 4] [3 4] [3 4] 
+[3 4] [3 4] [3 4] 
+
+		Begin Printing Seed information
+
+Seed point: 3 3 	Path 0 1 	User path 0 74 0
+
+Seed point: 3 4 	Path 2 3 	User path 74 88 74
+
+Seed point: 4 4 	Path 4 5 	User path 88 104 88
+
+Seed point: 4 5 	Path 6 7 	User path 104 119 104
+
+Seed point: 3 5 	Path 8 9 	User path 119 125 119
+
+Seed point: 3 4 	Path 10 10 	User path 125 174 125
+
+Seed point: 3 4 	Path 11 11 	User path 174 176 174
+
+Seed point: 3 4 	Path 12 12 	User path 176 178 176
+
+Seed point: 3 4 	Path 13 13 	User path 178 178 178
+
+---------------------
+
+Print path: 
+
+
+
+[3 3] [3 4] [3 4] [4 4] [4 4] [4 5] [4 5] 
+[3 5] [3 5] [3 4] [3 4] [3 4] [3 4] [3 4] 
+
