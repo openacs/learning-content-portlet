@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<message_catalog package_key="learning-content-portlet" package_version="0.1d3" locale="es_ES" charset="ISO-8859-1">
+<message_catalog package_key="learning-content-portlet" locale="es_ES" charset="ISO-8859-1">
 
   <msg key="activity_not_available">La actividad no está disponible</msg>
   <msg key="activity_type">Tipo de Actividad</msg>
@@ -9,8 +9,8 @@
   <msg key="add_unit">Agregar una Unidad/Capitulo nuevo.</msg>
   <msg key="admin_content_options">Administrar el Contenido</msg>
   <msg key="admin_pages_of">Administrar Páginas de: </msg>
-  <msg key="admin_portlet_element_pretty_name">Portlet Contenido</msg>
-  <msg key="admin_portlet_pretty_name">Administración de contenido</msg>
+  <msg key="admin_portlet_element_pretty_name">Portlet de Contenido de Aprendizaje</msg>
+  <msg key="admin_portlet_pretty_name">Administración del Contenido de Aprendizaje</msg>
   <msg key="All">Todas</msg>
   <msg key="appearances">Apariciones</msg>
   <msg key="assessment_not_available_yet">Este Cuestionario aún no está disponible</msg>
@@ -20,7 +20,7 @@
   <msg key="choose_activity">Elija la Actividad</msg>
   <msg key="choose_location">Escoger Ubicación</msg>
   <msg key="confirm">Confirmar</msg>
-  <msg key="content">Contenido</msg>
+  <msg key="content">Contenido de Aprendizaje</msg>
   <msg key="content_admin">Administrar Contenido</msg>
   <msg key="content_new_object_alert_message">%object_type%: %object_name% - se ha añadido al &lt;a href=%content_url%&gt;contenido&lt;/a&gt;</msg>
   <msg key="copy">Copiar</msg>
@@ -109,16 +109,6 @@
   <msg key="there_are_no_words">No hay términos</msg>
   <msg key="total_of_pages_visited">Total de páginas visitadas</msg>
   <msg key="tutorials">Mini-Tutoriales</msg>
-  <msg key="unit_descirption">Cada Unidad o Capítulo se divide en las siguiente secciones:&lt;br /&gt;&lt;ul&gt;
-        &lt;li&gt; Introducción&lt;/li&gt;
-        &lt;li&gt; Contenido&lt;/li&gt;
-        &lt;li&gt; Actividades&lt;/li&gt;
-        &lt;li&gt; Glosario&lt;/li&gt;
-        &lt;li&gt; Anexo&lt;/li&gt;
-        &lt;/ul&gt;
-        Dichas secciones pueden cambiarse una vez creada la Unidad /
-        Capitulo. Y se puede crear adicionalmente nuevas sub-secciones.
-    </msg>
   <msg key="used">Utilizada %times_used% veces</msg>
   <msg key="user_views">Visitas de los Usuarios</msg>
   <msg key="users_visits">Visitas por usuario</msg>

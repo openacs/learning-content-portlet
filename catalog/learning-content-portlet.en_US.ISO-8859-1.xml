@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<message_catalog package_key="learning-content-portlet" package_version="0.1d3" locale="en_US" charset="ISO-8859-1">
+<message_catalog package_key="learning-content-portlet" locale="en_US" charset="ISO-8859-1">
 
   <msg key="activity_not_available">Activity not available</msg>
   <msg key="activity_type">Activity Type</msg>
@@ -9,8 +9,8 @@
   <msg key="add_unit">Add new unit</msg>
   <msg key="admin_content_options">Admin Content</msg>
   <msg key="admin_pages_of">Admin pages of: </msg>
-  <msg key="admin_portlet_element_pretty_name">Content Portlet</msg>
-  <msg key="admin_portlet_pretty_name">Content Portlet Administration</msg>
+  <msg key="admin_portlet_element_pretty_name">Learning Content Portlet</msg>
+  <msg key="admin_portlet_pretty_name">Learning Content Administration</msg>
   <msg key="All">All</msg>
   <msg key="appearances">Appearances</msg>
   <msg key="assessment_not_available_yet">This Assessment is not available yet</msg>
@@ -20,7 +20,7 @@
   <msg key="choose_activity">Choose Activity</msg>
   <msg key="choose_location">Choose Location</msg>
   <msg key="confirm">Confirm</msg>
-  <msg key="content">Content</msg>
+  <msg key="content">Learning Content</msg>
   <msg key="content_admin">Content Admin</msg>
   <msg key="content_new_object_alert_message">%object_type%: %object_name% - has been added to &lt;a href=%content_url%&gt;content&lt;/a&gt; </msg>
   <msg key="copy">Copy</msg>
