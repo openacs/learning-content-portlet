@@ -18,11 +18,11 @@
         <callbacks>
         </callbacks>
         <parameters>
-            <parameter datatype="string"  min_n_values="1"  max_n_values="1"  name="admin_portlet_element_pretty_name"  default="Content Portlet" description="the name in the UI for xowiki element"/>
-            <parameter datatype="string"  min_n_values="1"  max_n_values="1"  name="admin_portlet_pretty_name"  default="Content Admin" description="the name for the xowiki admin portlet in the UI"/>
+            <parameter datatype="string"  min_n_values="1"  max_n_values="1"  name="admin_portlet_element_pretty_name"  default="#learning-content-portlet.admin_portlet_element_pretty_name#" description="the name in the UI for xowiki element"/>
+            <parameter datatype="string"  min_n_values="1"  max_n_values="1"  name="admin_portlet_pretty_name"  default="#learning-content-portlet.admin_portlet_pretty_name#" description="the name for the xowiki admin portlet in the UI"/>
             <parameter datatype="number"  min_n_values="1"  max_n_values="1"  name="content_portal_force_region"  default="1" description="region that new xowiki portlets are put into be default"/>
             <parameter datatype="string"  min_n_values="1"  max_n_values="1"  name="content_portal_page_name"  default="" description="a default name for the page created by content-portlet"/>
-            <parameter datatype="string"  min_n_values="1"  max_n_values="1"  name="learning_content_portlet_pretty_name"  default="Content" description="name for UI of content"/>
+            <parameter datatype="string"  min_n_values="1"  max_n_values="1"  name="learning_content_portlet_pretty_name"  default="#learning-content-portlet.content#" description="name for UI of content"/>
 	    <parameter datatype="number"  min_n_values="1"  max_n_values="1"  name="show_header_p"  default="0" description="Show/Hide header for content pages"/>
         </parameters>
 
